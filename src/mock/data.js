@@ -9,9 +9,9 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
-  subtitle: '',
+  title: 'Hi my name is',
+  name: 'Iwama Taku',
+  subtitle: 'I am a photographer',
   cta: '',
 };
 
